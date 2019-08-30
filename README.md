@@ -58,3 +58,8 @@ it has a file called **cartService.js** which was for an implementation of a sho
 
 ## Uploads
 This is the place where all the uploaded images of the products will go
+
+## Future implementations
+* use of a short description
+* use of several images, to make a carousel in the productDetails
+* implement a shopping cart in the frontend
