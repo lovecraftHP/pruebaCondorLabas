@@ -14,6 +14,7 @@ The development of this application was done in the ubuntu 18.04(x64) OS, also u
 * **Angular CLI**: 8.2.2
 * **Node**: 10.16.2 (npm: '6.11.1')
 * **mongodb**: db version v4.2.0
+* **BootStrap** : 4.3.0
 
 # FrontEnd
 In the frontend part, the latest version of angular was used, so far it is 8, the libraries that were used were:
